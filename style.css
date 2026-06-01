@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background: pink;
+    padding: 20px;
+}
+
+input, button {
+    padding: 8px;
+    font-size: 14px;
+}
+
+button {
+    background: #ff69b4;
+    border: none;
+    cursor: pointer;
+}
+
+#resultArea {
+    margin: 15px 0;
+    padding: 10px;
+    background: #ffe4ec;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
